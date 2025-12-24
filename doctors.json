@@ -8,6 +8,7 @@
       "clinic_name": "عيادة الحياة",
       "specialty": "طب وجراحة الأسنان",
       "price": 300,
+	  "img"  : "https://live.staticflickr.com/65535/55001651357_662491cc7f_m.jpg",
       "working_hours": {
         "saturday": ["10:00", "18:00"],
         "sunday": ["10:00", "18:00"],
@@ -36,6 +37,7 @@
       "clinic_name": "عيادة الابتسامة",
       "specialty": "تقويم الأسنان",
       "price": 350,
+	  "img"  : "https://live.staticflickr.com/65535/55002839365_2f34d1f030_m.jpg",
       "working_hours": {
         "saturday": ["11:00", "19:00"],
         "sunday": ["11:00", "19:00"],
@@ -64,6 +66,7 @@
       "clinic_name": "مركز الشفاء",
       "specialty": "جراحة الفم والأسنان",
       "price": 400,
+		"img"  : "https://live.staticflickr.com/65535/55002800754_a791282c91_m.jpg",
       "working_hours": {
         "saturday": ["09:00", "15:00"],
         "sunday": ["09:00", "15:00"],
@@ -92,6 +95,7 @@
       "clinic_name": "عيادة النور",
       "specialty": "علاج الجذور",
       "price": 250,
+		"img"  : "https://live.staticflickr.com/65535/55002800784_f41b075837_m.jpg",
       "working_hours": {
         "saturday": null,
         "sunday": ["13:00", "21:00"],
@@ -120,6 +124,7 @@
       "clinic_name": "عيادات المستقبل",
       "specialty": "تركيبات وتجميل الأسنان",
       "price": 500,
+	  "img"  : "https://live.staticflickr.com/7044/6975387978_b9af70e594_m.jpg",
       "working_hours": {
         "saturday": ["10:00", "22:00"],
         "sunday": ["10:00", "22:00"],
